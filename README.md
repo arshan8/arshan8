@@ -1,2 +1,3 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/arshan8/lapor?ext=heatmap)](https://leetcode.com/arshan8)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/arshan8?ext=heatmap)](https://leetcode.com/arshan8/)
+
 
