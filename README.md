@@ -1,4 +1,5 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/arshan8?ext=heatmap)](https://leetcode.com/arshan8/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/arshan8?ext=heatmap&theme=light)](https://leetcode.com/arshan8/)
+
 
 
 ## ✍️ Cool Technical Blogs — Rethinking Tech from First Principles
