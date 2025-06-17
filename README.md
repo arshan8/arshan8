@@ -5,8 +5,7 @@
 ## ✍️ Cool Technical Blogs — Rethinking Tech from First Principles
 I love writing thought-provoking blogs that explore systems from the ground up.
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arshanshaik1199)
-
+[![Medium](https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@arshanshaik1199)
 
 
 
