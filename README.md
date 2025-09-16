@@ -1,4 +1,3 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/arshan_n8?ext=heatmap&theme=light)](https://leetcode.com/arshan_n8/)
 
 
 
