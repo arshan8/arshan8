@@ -13,5 +13,6 @@ I love writing thought-provoking blogs that explore systems from the ground up.
 
 ## Leetcode community stats: 700 reputation stars
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arshan8/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arshan8?theme=dark&font=Karma)
 
 
